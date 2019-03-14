@@ -4,6 +4,7 @@ public class test1 {
         System.out.println("khobi");
         System.out.println("line 1");
         System.out.println("line 2");
+        System.out.println("line 3");
     }
 
 }
